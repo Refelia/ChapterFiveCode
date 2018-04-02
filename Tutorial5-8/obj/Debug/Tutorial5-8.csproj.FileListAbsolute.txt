@@ -1,0 +1,10 @@
+C:\Users\MTCStudent\Desktop\R_ChapterFiveCode\Tutorial5-8\bin\Debug\Tutorial5-8.exe.config
+C:\Users\MTCStudent\Desktop\R_ChapterFiveCode\Tutorial5-8\bin\Debug\Tutorial5-8.exe
+C:\Users\MTCStudent\Desktop\R_ChapterFiveCode\Tutorial5-8\bin\Debug\Tutorial5-8.pdb
+C:\Users\MTCStudent\Desktop\R_ChapterFiveCode\Tutorial5-8\obj\Debug\Tutorial5-8.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\R_ChapterFiveCode\Tutorial5-8\obj\Debug\Tutorial5_8.Form1.resources
+C:\Users\MTCStudent\Desktop\R_ChapterFiveCode\Tutorial5-8\obj\Debug\Tutorial5_8.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\R_ChapterFiveCode\Tutorial5-8\obj\Debug\Tutorial5-8.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\R_ChapterFiveCode\Tutorial5-8\obj\Debug\Tutorial5-8.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\R_ChapterFiveCode\Tutorial5-8\obj\Debug\Tutorial5-8.exe
+C:\Users\MTCStudent\Desktop\R_ChapterFiveCode\Tutorial5-8\obj\Debug\Tutorial5-8.pdb
